@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/09/2016, 13:04:42
+    Author     : roliveira
+*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    #font-weight: 300px;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    min-height: 10%;
+    #min-height: 60px;
+    position: fixed;
+    background-color: #000000;
+    top: 0;
+    right: 0;
+    left: 0;
+    color: cornsilk;
+    display: flex;
+    align-items: center;
+    #font-size: 300%;
+    #z-index: 2;
+}
+
+section {
+    #min-height: 1250px;
+    #min-height: 80%;
+    #width: 100%;
+    #font-size: 250%;
+    #margin-top: 18%;
+}
+
+footer {
+    height: 10%;
+    width: 100%;
+    float: left;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+    background-color: #000000;
+    color: cornsilk;
+    #font-size: 250%;
+}
+
+header nav a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+}
+
+header h3 {
+    float: left;
+}
+
+img,
+picture,
+video,
+embed {
+    max-width: 100%;
+}
