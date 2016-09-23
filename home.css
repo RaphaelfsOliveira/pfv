@@ -54,7 +54,7 @@ header p {
     display: flex;
     align-items: center;
     #background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
-    background-image: url('imgEventos/evento3.jpg');
+    background-image: url('https://www.dropbox.com/s/ycruze0zym7zqxm/evento3.jpg?dl=0');
     background-size: cover;
     background-position: center;
     color: #ffffff;
