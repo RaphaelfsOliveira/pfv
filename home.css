@@ -66,15 +66,15 @@ header p {
     font-size: 60px;
     font-weight: 700;
     margin: 0;
-    color: #000;
-    text-shadow:#fff 1px -1px 2px, #fff -1px 1px 2px, #fff 1px 1px 2px, #fff -1px -1px 2px;
+    color: #fff;
+    text-shadow:#000 1px -1px 2px, #000 -1px 1px 2px, #000 1px 1px 2px, #000 -1px -1px 2px;
     #text-shadow:#fff -1px -1px 2px;
 }
 
 .jumbotron h3 {
     margin: 0 0 20px;
-    color: #000;
-    text-shadow:#fff 1px -1px 2px, #fff -1px 1px 2px, #fff 1px 1px 2px, #fff -1px -1px 2px;
+    color: #fff;
+    text-shadow:#000 1px -1px 2px, #000 -1px 1px 2px, #000 1px 1px 2px, #000 -1px -1px 2px;
     #text-shadow:#fff -1px -1px 2px;
 }
 
